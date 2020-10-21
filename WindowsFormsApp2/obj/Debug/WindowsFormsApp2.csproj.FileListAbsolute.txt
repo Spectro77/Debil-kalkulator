@@ -1,0 +1,10 @@
+C:\Users\spect\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\spect\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\spect\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\spect\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\spect\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\spect\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Debil Kalkulator.exe.config
+C:\Users\spect\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Debil Kalkulator.exe
+C:\Users\spect\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Debil Kalkulator.pdb
+C:\Users\spect\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Debil Kalkulator.exe
+C:\Users\spect\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Debil Kalkulator.pdb
